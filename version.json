@@ -1,11 +1,10 @@
 {
-  "gameId": "game_cuaban_01",
-  "latestVersion": "1.1",
+  "gameId": "PhiNguyetElder",
+  "latestVersion": "202605262214",
   "updates": [
     {
-      "version": "1.1",
-      "size": 25000000,
-      "url": "ĐỂ_TRỐNG_LÁT_ĐIỀN_SAU"
+      "version": "202605262222",
+      "size": 45000000,
+      "url": "https://github.com/rosehunter2/GameLore-PN/releases/download/v1.1/PhiNguyetElder_v170520261622.zip"
     }
-  ]
 }
